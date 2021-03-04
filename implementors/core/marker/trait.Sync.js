@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["influxdb_client"] = [{"text":"impl Sync for Client","synthetic":true,"types":[]},{"text":"impl Sync for Value","synthetic":true,"types":[]},{"text":"impl Sync for Timestamp","synthetic":true,"types":[]},{"text":"impl Sync for Point","synthetic":true,"types":[]},{"text":"impl Sync for InfluxError","synthetic":true,"types":[]},{"text":"impl Sync for TimestampOptions","synthetic":true,"types":[]},{"text":"impl Sync for Precision","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

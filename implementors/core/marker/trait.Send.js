@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["influxdb_client"] = [{"text":"impl Send for Client","synthetic":true,"types":[]},{"text":"impl Send for Value","synthetic":true,"types":[]},{"text":"impl Send for Timestamp","synthetic":true,"types":[]},{"text":"impl Send for Point","synthetic":true,"types":[]},{"text":"impl Send for InfluxError","synthetic":true,"types":[]},{"text":"impl Send for TimestampOptions","synthetic":true,"types":[]},{"text":"impl Send for Precision","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

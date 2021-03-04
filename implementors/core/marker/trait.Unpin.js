@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["influxdb_client"] = [{"text":"impl Unpin for Client","synthetic":true,"types":[]},{"text":"impl Unpin for Value","synthetic":true,"types":[]},{"text":"impl Unpin for Timestamp","synthetic":true,"types":[]},{"text":"impl Unpin for Point","synthetic":true,"types":[]},{"text":"impl Unpin for InfluxError","synthetic":true,"types":[]},{"text":"impl Unpin for TimestampOptions","synthetic":true,"types":[]},{"text":"impl Unpin for Precision","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

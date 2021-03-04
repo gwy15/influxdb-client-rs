@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["influxdb_client"] = [{"text":"impl Freeze for Client","synthetic":true,"types":[]},{"text":"impl Freeze for Value","synthetic":true,"types":[]},{"text":"impl Freeze for Timestamp","synthetic":true,"types":[]},{"text":"impl Freeze for Point","synthetic":true,"types":[]},{"text":"impl Freeze for InfluxError","synthetic":true,"types":[]},{"text":"impl Freeze for TimestampOptions","synthetic":true,"types":[]},{"text":"impl Freeze for Precision","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

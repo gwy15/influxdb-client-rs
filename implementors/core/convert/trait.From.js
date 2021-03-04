@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["influxdb_client"] = [{"text":"impl From&lt;&amp;'_ str&gt; for Value","synthetic":false,"types":[]},{"text":"impl From&lt;f64&gt; for Value","synthetic":false,"types":[]},{"text":"impl From&lt;i64&gt; for Value","synthetic":false,"types":[]},{"text":"impl From&lt;bool&gt; for Value","synthetic":false,"types":[]},{"text":"impl From&lt;&amp;'_ str&gt; for Timestamp","synthetic":false,"types":[]},{"text":"impl From&lt;i64&gt; for Timestamp","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
