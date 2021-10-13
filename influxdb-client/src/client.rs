@@ -125,7 +125,7 @@ impl Client {
                     let content = response.text().await?;
                     Err(InfluxError::Forbidden(content))
                 }
-                s if matches!(s.as_u16(), 400..=499 | 500..=500) => {
+                s if !matches!(s.as_u16(), 200..=299) => {
                     let content = response.text().await?;
                     Err(InfluxError::Unknown(content))
                 }
